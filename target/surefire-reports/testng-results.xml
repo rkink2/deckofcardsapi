@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.deckofcards.utils.TestCardsAPI" duration-ms="10687" started-at="2020-04-08T15:16:49Z" finished-at="2020-04-08T15:16:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10687" started-at="2020-04-08T15:16:49Z" finished-at="2020-04-08T15:16:59Z">
+      <class name="com.deckofcards.utils.TestCardsAPI">
+        <test-method status="PASS" signature="Test_01()[pri:0, instance:com.deckofcards.utils.TestCardsAPI@26ba2a48]" name="Test_01" duration-ms="7556" started-at="2020-04-08T20:46:49Z" finished-at="2020-04-08T20:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="Test_02()[pri:0, instance:com.deckofcards.utils.TestCardsAPI@26ba2a48]" name="Test_02" duration-ms="3099" started-at="2020-04-08T20:46:56Z" finished-at="2020-04-08T20:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_02 -->
+      </class> <!-- com.deckofcards.utils.TestCardsAPI -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.deckofcards.utils.TestCardsAPI -->
+</testng-results>
